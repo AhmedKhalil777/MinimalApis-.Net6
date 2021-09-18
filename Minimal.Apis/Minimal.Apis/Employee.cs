@@ -2,7 +2,7 @@ using System;
 
 namespace Minimal.Apis
 {
-    public class Customer
+    public class Employee
     {
         public Guid Id { get; set; }
         public string UserName { get; set; }
